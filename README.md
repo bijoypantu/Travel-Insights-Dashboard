@@ -36,7 +36,7 @@ The **Travel Insights Dashboard** offers a comprehensive view of travel trends u
 
 ## 📌Dashboard Preview
 ![Travel Dashboard](https://github.com/bijoypantu/Travel-Insights-Dashboard/blob/main/TravelFights.png?raw=true)
-
+#### Dashboard Link: https://public.tableau.com/app/profile/bijoy.pantu/viz/TravelInsightsDashboard_17429732698820/TravelFlights
 
 ## 📌 How to Use the Dashboard
 - Click on **Argo** to learn more about Argo Solutions.

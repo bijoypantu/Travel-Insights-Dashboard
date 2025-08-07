@@ -34,7 +34,7 @@ The **Travel Insights Dashboard** offers a comprehensive view of travel trends u
 | Pastel Orange | `#F4A261` |
 
 ## 📌Dashboard Preview
-![Travel Dashboard](https://github.com/bijoypantu/Travel-Insights-Dashboard/blob/main/TravelFights.png?raw=true)
+![Travel Dashboard](https://github.com/bijoypantu/Travel-Insights-Dashboard/blob/main/Icons%20&%20Images/TravelFights.png?raw=true)
 
 #### Interact With the Dashboard Here : [Travel Insights Dashboard](https://public.tableau.com/app/profile/bijoy.pantu/viz/TravelInsightsDashboard_17429732698820/TravelFlights)
 

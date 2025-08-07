@@ -1,5 +1,4 @@
-
-# *Travel Dashboard - Tableau Project*
+# *Travel Insights Dashboard - Tableau Project*
 📊 **Comprehensive Travel Insights Dashboard Providing Actionable Workforce Analytics**  
 
 ## 📌 Project Overview
@@ -36,7 +35,8 @@ The **Travel Insights Dashboard** offers a comprehensive view of travel trends u
 
 ## 📌Dashboard Preview
 ![Travel Dashboard](https://github.com/bijoypantu/Travel-Insights-Dashboard/blob/main/TravelFights.png?raw=true)
-#### Dashboard Link: https://public.tableau.com/app/profile/bijoy.pantu/viz/TravelInsightsDashboard_17429732698820/TravelFlights
+
+#### Interact With the Dashboard Here : [Travel Insights Dashboard](https://public.tableau.com/app/profile/bijoy.pantu/viz/TravelInsightsDashboard_17429732698820/TravelFlights)
 
 ## 📌 How to Use the Dashboard
 - Click on **Argo** to learn more about Argo Solutions.
@@ -48,6 +48,6 @@ The **Travel Insights Dashboard** offers a comprehensive view of travel trends u
 ## 📌 Contact & Support
 For questions or support, reach out via:
 
-📩 : bijoypantu176@gmail.com  
-**in** : https://www.linkedin.com/in/bijoypantu/  
-𝕏 : https://x.com/BijoyPantu
+[Email](bijoypantu176@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/bijoypantu/)  
+[𝕏](https://x.com/BijoyPantu)
